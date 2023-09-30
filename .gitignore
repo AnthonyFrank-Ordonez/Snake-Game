@@ -1,0 +1,17 @@
+
+
+# Ignore the .idea folders
+.idea/
+
+# Ignore all the log files
+*.log
+
+# Ignore all files in any directory named temp
+temp/
+
+# Ignore these following directories and its files
+data_files/__pycache__/game_settings.cpython-311.pyc
+
+
+# Ignore these following directories and its files
+data_files/__pycache__/new_cl.cpython-311.pyc
